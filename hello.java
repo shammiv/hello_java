@@ -1,7 +1,7 @@
-public class Hello {
- public static void main (string[] args) {
-  //print "Hello,world" in the terminal window
-    System.out.prinln("Hello , world");
-	}
-  
+// Your First Program
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
 }
